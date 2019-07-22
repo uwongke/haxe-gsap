@@ -1,5 +1,5 @@
 {
-  "name": "gsap",
+  "name": "haxe-gsap",
   "license": "MIT",
   "tags": ["js","haxe","extern","web","gsap","greensock","tweenmax","tweenlite"],
   "description": "Haxe externs for Greensock Animation Platform (gsap)",
